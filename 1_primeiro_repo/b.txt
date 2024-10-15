@@ -1,3 +1,1 @@
-Novo sistema de câmera.
-Escolha por qual lente você quer ver o mundo.
-O novíssimo sistema de câmera do iPhone 16 é muito versátil e captura fotos ainda mais surpreendentes, de perto ou de longe. A câmera Fusion de 48 MP funciona como duas. Ela faz imagens em alta resolução de tirar o fôlego ou dá zoom com a qualidade óptica da teleobjetiva de 2x. A câmera ultra-angular faz fotos macro em close extremo ou em planos abertos. Na prática, é como levar quatro lentes incríveis no bolso. E, com a captura espacial, você já pode começar a fazer fotos e gravar vídeos em 3D para ver de um jeito surpreendente e imersivo no Apple Vision Pro.
+Testando atualizacao do clone
